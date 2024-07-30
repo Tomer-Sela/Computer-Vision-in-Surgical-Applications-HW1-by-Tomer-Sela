@@ -13,5 +13,5 @@ Install the conda Python env using the requirements.txt.
 I recommend installing the environment using Conda and running it through Jupyter Notebook.  
 
 ## Running the Project
-The best way to run the Project is via Jupyter Notebook. After launching the conda environment, using a console or cmd, you can run "Jupyter Lab" in order to open a Jupyter interface over Chrome.  
+The best way to run the Project is via Jupyter Notebook. After launching the conda environment, using a console or cmd, you can run "Jupyter Lab" command in order to open a Jupyter interface over Chrome.  
 The project contains 4 auxiliary notebooks numbered by order of operation and 2 Python files for image and video prediction, as required by the project instructions.  
