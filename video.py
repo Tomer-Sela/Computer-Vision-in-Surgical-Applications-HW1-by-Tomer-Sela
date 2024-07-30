@@ -7,11 +7,11 @@ import sys
 video = 'path_to_video.mp4'
 
 # choose model, TS_CV is the final best model
-model = YOLO('Model/TS_CV.pt')
+model = YOLO('Models/TS_CV.pt')
 
 # run prediction
 results = model.predict(source=video,
-                        save=True, stream=True, vid_stride=1, save_txt=True,
+                        save=True, stream=True, save_txt=False,
                         save_conf=True, save_frames=False, show_labels=True,
                         show_conf=True, show_boxes=True)
 for result in results:
