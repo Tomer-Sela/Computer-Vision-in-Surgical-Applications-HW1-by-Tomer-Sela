@@ -1,7 +1,7 @@
 # Computer Vision in Surgical Applications HW1
 by Tomer Sela
 
-![alt text](Results/Image_exemple.png?raw=true)
+![alt text](EA-SPORTS-FC-25-OFFICIAL-GAMEPLAY-FACE-OF-FIFA-720p60-h264-youtube-_mp4-0031_jpg.rf.cd7f089f88d47aa35e6ffd6d71cd109b.jpg?raw=true)
 
 ## Genral Information
 Submission GitHub for HW1. The final report is add under [HW1_Tomer_sela.pdf](HW1_Tomer_sela.pdf)
